@@ -1,2 +1,2 @@
-This is our first lab assignment
+This is v2 of our first lab assignment
 test3 - hotfix
